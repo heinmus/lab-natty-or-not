@@ -14,7 +14,7 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[[LINK PARA O PODCAST AQUI]()
+LINK PARA PODCAST
 ](https://web.descript.com/fe1949b4-11e5-4ed7-beab-97a095401d84)
 
 ## 💭 Reflexão
